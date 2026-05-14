@@ -19,4 +19,5 @@ The raw datasets was cleaned to improve data quality, constitency, and usuabilit
   - This project was created to practice and demonstaratedata cleaning skills as part of of my data analytics learning journey.
  
   ## Links
+  https://github.com/temitopeportfolio/-Data-cleaning-caf--sales-cleaned-datasets/blob/main/Data%20Cleaning%20(Cafe%20Sales).xlsx
   
