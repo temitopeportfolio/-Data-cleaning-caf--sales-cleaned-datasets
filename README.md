@@ -18,5 +18,5 @@ The raw was cleaned to improve data quality, constitency, and usuability for ana
   ## Purpose
   - This project was created to practice and demonstaratedata cleaning skills as part of of my data analytics learning journey.
  
-  ##
-  - Megbalewon Temitope
+  ## Links
+  https://github.com/temitopeportfolio/-Data-cleaning-caf--sales-cleaned-datasets/blob/main/Data%20Cleaning%20(Cafe%20Sales).xlsx
